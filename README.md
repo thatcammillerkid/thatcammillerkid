@@ -1,7 +1,8 @@
-# Pollen
-
-Googlespread sheet that stores all data [https://docs.google.com/spreadsheets/d/13PpXX24vbbUvxbFvjlAVFOUBifDRDFpDxGbtlNTwapc/edit#gid=0]
-
-Credentials are a service account loaded via Google. 
-
-Popup html is configured correctly, but somehow the stored values aren't making it to the spreedsheet.
+- 🔭 I’m currently working on …
+- 🌱 I’m currently learning …
+- 👯 I’m looking to collaborate on …
+- 🤔 I’m looking for help with …
+- 💬 Ask me about …
+- 📫 How to reach me: …
+- 😄 Pronouns: …
+- ⚡ Fun fact: …
